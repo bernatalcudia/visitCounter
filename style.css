@@ -1,0 +1,13 @@
+#section {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#buttonReset {
+    background-color: red;
+    color: white;
+    border-radius: 1rem;
+    width: 3rem;
+}
